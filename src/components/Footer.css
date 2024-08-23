@@ -1,0 +1,34 @@
+.Container-footer{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.footer-one{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+
+}
+.icons-container{
+    display: flex;
+}
+.icons{
+    padding: 10px;
+}
+.footer-two{
+    flex:1;
+
+}
+
+.footer-three{
+    flex:1;
+
+}
+.contact-info{
+    display:flex;
+    padding: 10px;
+    gap: 10px;
+}

@@ -1,0 +1,29 @@
+
+
+.container{
+    /* background-color: aqua; */
+    /* height: 25vh; */
+}
+.nav-item{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    align-items: center;
+
+}
+.itemOne{
+ flex:1;
+ display:flex;
+align-items: center;
+padding: 5px;
+}
+.itemTwo{
+flex: 1;
+
+}
+.itemThree{
+flex:1;
+display: flex;
+justify-content: flex-end;
+padding: 10px;
+}
